@@ -71,12 +71,17 @@ A comprehensive Java Swing application for managing hall operations, including m
    git clone https://github.com/kkkkkxtt/java-gui-hall-management-system.git
    ```
 2. Navigate to the project directory
+   ```bash
+   cd java-gui-hallmanagement-system
+   ```
 3. Clone the repository:
    ```bash
    javac *.java
    ```
 4. Run the main application class
-
+   ```bash
+   java Main
+   ```
 ## Usage
 - Login: Use credentials from Manager.txt or Scheduler.txt
 
