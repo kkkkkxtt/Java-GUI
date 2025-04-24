@@ -127,16 +127,24 @@ UserID
 Username
 Password
 ```
-
 ## Output Example
+
 ### Manager Menu
-![image](https://github.com/user-attachments/assets/50b8a493-5dac-4d28-8868-0c5a0c7919af)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/50b8a493-5dac-4d28-8868-0c5a0c7919af" width="50%">
+</div>
 
 ### Sales Dashboard
-![image](https://github.com/user-attachments/assets/2aa25095-022c-460f-964d-cf5813463054)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2aa25095-022c-460f-964d-cf5813463054" width="50%">
+</div>
 
 ### Issues Report
-![image](https://github.com/user-attachments/assets/6fc3d422-7988-40d6-8359-ea297f83e617)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6fc3d422-7988-40d6-8359-ea297f83e617" width="50%">
+</div>
 
 ### Logout
-![image](https://github.com/user-attachments/assets/821baaaa-fbea-4bd1-b4de-7d3cf3ed91f3)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/821baaaa-fbea-4bd1-b4de-7d3cf3ed91f3" width="50%">
+</div>
