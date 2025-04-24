@@ -72,7 +72,7 @@ A comprehensive Java Swing application for managing hall operations, including m
    ```
 2. Navigate to the project directory
    ```bash
-   cd java-gui-hallmanagement-system
+   cd java-gui-hallmanagement-system/src
    ```
 3. Clone the repository:
    ```bash
